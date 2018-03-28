@@ -1,0 +1,1 @@
+Single Image Super Resolution using GAN architecture and perceptual loss
